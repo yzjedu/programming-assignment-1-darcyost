@@ -26,7 +26,7 @@ Write a Python program that asks the user for the dimensions (length, width, and
 
 ## Team Members
 
-- [full names of all team members]
+- [Darcy Ostrander]
 
 ## Course
 
@@ -34,7 +34,7 @@ Write a Python program that asks the user for the dimensions (length, width, and
 
 ## Date
 
-- [Submission date]
+- [8/6/2024]
 
 ## Program Inputs
 
